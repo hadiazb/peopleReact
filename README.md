@@ -1,0 +1,2 @@
+### Pequeña aplicación
+Esta aplicación es un ejercicio practico de react que permite consumir una la API `https://randomuser.me/documentation#intro` para renderizar una aplicación que renderize los datos personales de una persona.
